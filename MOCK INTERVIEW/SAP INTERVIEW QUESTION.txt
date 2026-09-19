@@ -1,4 +1,15 @@
 
+1.What are Technical Settings in an SAP table?
+2.What is Data Class in Technical Settings?
+3.What are the different types of Data Classes available in SAP?
+4.What is Size Category in an SAP table?
+5.Why is Size Category maintained for a table?
+6.What is Table Buffering?
+7.What are the different types of table buffering?
+8.What is the difference between Full Buffering, Generic Buffering, and Single Record Buffering?
+9.When should table buffering be avoided?
+10.How does table buffering affect database performance?
+
 INDEXES
 1. What is an Index in SAP ABAP?
 2. Why are indexes used in database tables?
