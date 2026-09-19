@@ -1,0 +1,27 @@
+
+INDEXES
+1. What is an Index in SAP ABAP?
+2. Why are indexes used in database tables?
+3. What is the difference between a Primary Index and a Secondary Index?
+4. When would you create a Secondary Index?
+5. How does an Index improve the performance of a SELECT statement?
+6. What are the disadvantages of creating too many indexes?
+7. What factors should you consider before creating a Secondary Index?
+
+APPEND & INCLUDE STRUCTURES
+8. What is an Append Structure?
+9. Why do we use an Append Structure in SAP?
+10. What is an Include Structure?
+11. What is the difference between an Append Structure and an Include Structure?
+12. Can an Append Structure be used to enhance a standard SAP table?
+13. Can an Include Structure be reused in multiple tables?
+14. What happens to the dependent table when an Include Structure is changed?
+
+REAL-TIME SCENARIO QUESTIONS
+15. A standard SAP table is missing a custom field required by the business. How would you add the field without modifying the standard table directly?
+16. A SELECT query on a large table is taking several seconds. How would you investigate whether an Index could improve the performance?
+17. You have created a Secondary Index, but the SELECT statement is still slow. What would you check?
+18. A custom field needs to be added to several tables with the same structure. Would you use an Append Structure or an Include Structure? Why?
+19. After changing an Include Structure, multiple dependent tables are showing activation issues. How would you analyze and resolve the issue?
+20. A functional consultant asks you to create an Index for every field used in a WHERE condition. Would you create all of them? What would you consider before deciding?
+
