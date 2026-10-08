@@ -1,0 +1,42 @@
+🚀 𝗦𝗔𝗣 𝗔𝗕𝗔𝗣 𝗜𝗡𝗧𝗘𝗥𝗩𝗜𝗘𝗪 𝗤𝗨𝗘𝗦𝗧𝗜𝗢𝗡𝗦 
+📌 𝗕𝗔𝗣𝗜 | 𝗥𝗙𝗖 | 𝗕𝗗𝗖 | 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 & 𝗥𝗘𝗔𝗟-𝗧𝗜𝗠𝗘 𝗦𝗖𝗘𝗡𝗔𝗥𝗜𝗢𝗦
+After completing the ABAP Modularization series, let's move into another important area of SAP ABAP — 𝗕𝗔𝗣𝗜, 𝗥𝗙𝗖 & 𝗕𝗗𝗖.
+These concepts are frequently discussed in ABAP interviews, especially when the requirement involves data transfer, automation, or integration between SAP systems.
+
+𝗕𝗔𝗣𝗜 – 𝗕𝗔𝗦𝗜𝗖𝗦
+1. What is a BAPI in SAP ABAP?
+2. Why are BAPIs used in SAP?
+3. What is the difference between a BAPI and a normal Function Module?
+4. How is a BAPI different from an RFC-enabled Function Module?
+5. How do you find the correct BAPI for a particular business requirement?
+6. How do you test a BAPI?
+7. What is the purpose of BAPI_TRANSACTION_COMMIT?
+8. What happens if you don't call BAPI_TRANSACTION_COMMIT after a successful BAPI call?
+9. How do you handle errors returned by a BAPI?
+
+𝗥𝗙𝗖 – 𝗥𝗘𝗠𝗢𝗧𝗘 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡 𝗖𝗔𝗟𝗟
+10. What is RFC in SAP ABAP?
+11. What makes a Function Module RFC-enabled?
+12. What are the different types of RFC communication?
+13. What is the difference between synchronous RFC and asynchronous RFC?
+14. What is the difference between RFC and BAPI?
+15. How do you configure and test an RFC connection?
+16. An RFC call between two SAP systems is failing. How would you troubleshoot it?
+
+𝗕𝗗𝗖 – 𝗕𝗔𝗧𝗖𝗛 𝗗𝗔𝗧𝗔 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗜𝗢𝗡
+17. What is BDC and why is it used?
+18. What are the different methods of BDC?
+19. What is the difference between Session Method and Call Transaction Method?
+20. What is the difference between BDC and BAPI?
+21. When would you choose BDC instead of a BAPI?
+22. How do you handle errors in a BDC program?
+
+𝗥𝗘𝗔𝗟-𝗧𝗜𝗠𝗘 𝗦𝗖𝗘𝗡𝗔𝗥𝗜𝗢𝗦
+23. The business wants to create Purchase Orders automatically from an ABAP program. How would you approach the requirement?
+24. A BAPI executes successfully but the document is not created in SAP. What would you check?
+25. A BDC program works correctly in Development but fails in Quality after a transport. How would you troubleshoot it?
+26. An RFC-enabled Function Module works when tested locally but fails when called from another SAP system. What would you investigate?
+27. You need to transfer 100,000 records from one SAP system to another. Would you use BAPI, RFC, or BDC? What factors would you consider?
+28. A transaction does not have a suitable BAPI, but the business wants to automate it. What alternatives would you consider?
+
+#SAPABAP #ABAP #SAP #BAPI #RFC #BDC #ABAPDeveloper #SAPInterview #SAPJobs #S4HANA #ABAPonHANA #Integration #InterviewPreparation #SAPCommunity
